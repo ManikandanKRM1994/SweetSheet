@@ -1,0 +1,2 @@
+rootProject.name='SweetSheet'
+include ':app'
